@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend projects.
 - 🌱 I’m currently learning frontend technologies
 - 💞️ I’m looking to collaborate on backend projects.
-- 📫 How to reach me through my email juliocesarnapolespuente@gmail.com
+- 📫 How to reach me through cesarnapoles.com
 
 <!---
 jcnapoles/jcnapoles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
