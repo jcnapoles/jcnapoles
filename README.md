@@ -20,8 +20,8 @@
 ### 🚀 What I'm Building
 
 - **[Closevibe](https://cesarnapoles.com)** — AI conversational commerce SaaS. Multi-tenant architecture with RAG chatbots, web scraping, and deep e-commerce integrations via WhatsApp & Messenger.
-- **Options Trading Platform** — Full-stack Python system implementing the wheel strategy with real IBKR API integration, backtesting, and Telegram alerts.
-- **Technical Interview Framework** — Structured evaluation system (Rookie → Legend) for full-stack developer candidates.
+- **[InvestAnalysis](https://investanalysis.site)** — Platform with two core modules: fundamental stock analysis and an options trading system implementing the wheel strategy with real IBKR API integration, backtesting, and Telegram alerts.
+- **[Dret i Mediació](https://dretimediacio.vercel.app)** — Full-stack Next.js web app for a law firm specializing in immigration & family law. Appointment booking, multilingual support, and cookie-compliant design.
 
 ---
 
