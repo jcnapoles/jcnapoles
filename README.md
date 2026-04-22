@@ -1,29 +1,46 @@
-# Welcome to My GitHub 👋
+# Hey, I'm Cesar Napoles 👋
 
-## About Me
+**Fractional CTO & Founder** · Building AI-powered products that drive real business outcomes.
 
-My name is Cesar Napoles, and I am a Java, Spring, Angular, and React expert with +10 years of experience in building robust and scalable applications across various industries.
+12+ years shipping production systems across **fintech, insurance, aviation, and e-commerce**. Currently scaling [Closevibe](https://cesarnapoles.com) — a conversational commerce platform powered by AI on WhatsApp, Messenger & email — while leading engineering teams at enterprise scale.
 
-## Technical Skills
+---
 
-- **Java**: Backend development with Spring Framework, including Spring Boot, Spring Security, and JPA/Hibernate.
-- **Angular**: Creating dynamic and responsive user interfaces using Angular 17.
-- **React**: Frontend development using React.js, managing state with Redux, and optimizing with Hooks.
-- **Other Technologies**: OracleDB, PostgresSQL, Github Actions, Jenkins, AWS...
+### 🔧 What I Work With
 
-## Contributions and Collaborations
+**Languages:** Java · Python · TypeScript · Node.js  
+**Frontend:** React · Next.js · Framer Motion · Three.js  
+**Cloud & Infra:** AWS · GCP · Docker · Railway · PostgreSQL · pgvector  
+**AI / ML:** RAG systems · LLM integration (Claude, GPT) · Intent detection · n8n workflows  
+**APIs & Platforms:** Meta (WhatsApp Business, Messenger, Instagram) · Interactive Brokers · Confluence  
+**Tools:** VS Code · IntelliJ · Cursor · Git · Jest · Cypress
 
-I am open to collaborations on projects that seek to innovate and improve the use of technologies in software development. If you're interested in working with me, please don't hesitate to reach out!
+---
 
-## Contact
-- **My website**: https://cesarnapoles.com
-- **LinkedIn**: https://www.linkedin.com/in/jcnapoles
+### 🚀 What I'm Building
 
-Thank you for visiting my profile, and I look forward to potentially collaborating soon!
+- **[Closevibe](https://cesarnapoles.com)** — AI conversational commerce SaaS. Multi-tenant architecture with RAG chatbots, web scraping, and deep e-commerce integrations via WhatsApp & Messenger.
+- **Options Trading Platform** — Full-stack Python system implementing the wheel strategy with real IBKR API integration, backtesting, and Telegram alerts.
+- **Technical Interview Framework** — Structured evaluation system (Rookie → Legend) for full-stack developer candidates.
 
+---
 
+### 📊 GitHub Stats
 
-<!---
-jcnapoles/jcnapoles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=cesarnapoles&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarnapoles&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+---
+
+### 💡 How I Think About Tech
+
+> I don't chase frameworks — I pick the right tool for the problem, ship fast, and iterate with data. Whether it's choosing Claude Haiku over GPT-4 to cut costs on high-volume chatbot conversations, or designing a multi-database migration with incremental rollback, the answer is always in the tradeoffs.
+
+---
+
+### 📫 Let's Connect
+
+[![Website](https://img.shields.io/badge/cesarnapoles.com-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cesarnapoles.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cesarnapoles)
